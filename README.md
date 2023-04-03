@@ -11,6 +11,6 @@ You can press any key to start the game. After that it will show you a tile you 
 * how to store the clicked pattern into an array
 * adding animations to the button click
 * using jquery to detect when a key was pressed to start the game
-* incresing the level by 1 every time the user has clicked the right button
+* increasing the level by 1 every time the user has clicked the right button
 * creating a function that checks if the most recent button click of the user is the same as the game pattern
 * creating a function that will restart the game if a user clicked the wrong button and sets the level to 0 again
